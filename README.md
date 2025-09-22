@@ -1,0 +1,2 @@
+# Metodos-de-ordenamiento-Tiempo-de-ejecucion-con-graficas-
+El main Medicion_tiempo_metodos_ordenamiento despues llama los metodos de ordenamiento burbuja,seleccion,insercion,mezcla y quicksort para uso de comparacion del tiempo y la cantidad de datos de entrada.Se corre el programa donde genera una lista de numeros aleatorios y sobre esta cra un CVS que usaremos para las graficas donde conpara dos CVS.
